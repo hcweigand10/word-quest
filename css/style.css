@@ -1,0 +1,16 @@
+.jumbotron {
+    background-color: beige;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.target {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.targets {
+    font-weight: bold;
+}
